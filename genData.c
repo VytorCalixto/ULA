@@ -13,10 +13,10 @@ int buf[BUF_SZ] = {
   0x5555aaaa, 0x5555aaaa,
   3,2,
   0x44444444, 0x88888888, // cccccccc
-  0x5555aaaa, 
+  0x5555aaaa,
   4,2,
   4,4, // 00000010
-  0x5555aaaa, 
+  0x5555aaaa,
   0,2,
   0x5555aaaa, 0xaaaa5555, // ffffffff
  0x5555aaaa
